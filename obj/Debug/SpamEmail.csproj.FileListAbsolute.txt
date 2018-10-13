@@ -1,0 +1,8 @@
+G:\C#\SpamEmail\SpamEmail\bin\Debug\SpamEmail.exe
+G:\C#\SpamEmail\SpamEmail\bin\Debug\SpamEmail.pdb
+G:\C#\SpamEmail\SpamEmail\obj\Debug\SpamEmail.csprojResolveAssemblyReference.cache
+G:\C#\SpamEmail\SpamEmail\obj\Debug\SpamEmail.Form1.resources
+G:\C#\SpamEmail\SpamEmail\obj\Debug\SpamEmail.Properties.Resources.resources
+G:\C#\SpamEmail\SpamEmail\obj\Debug\SpamEmail.csproj.GenerateResource.Cache
+G:\C#\SpamEmail\SpamEmail\obj\Debug\SpamEmail.exe
+G:\C#\SpamEmail\SpamEmail\obj\Debug\SpamEmail.pdb
